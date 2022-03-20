@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-![Alter Logo](https://github.com/alterdevteam/alterdevteam.github.io/blob/master/img/logo2.png)
+![Alter Logo](https://raw.githubusercontent.com/alterdevteam/alterdevteam.github.io/af7fabf846a6a3c034442eb9824f53f6b48f70b1/img/logo2.png)
 
 - [Download PDF Documentation](https://raw.githubusercontent.com/iaacornus/sys/devel/manscript/alter_patent_ppr_main.pdf)
 - [Get the device](https://shopee.ph/)
